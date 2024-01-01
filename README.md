@@ -8,17 +8,7 @@
 <td>
 
   ```js
-  let body = document.body, t = 0;
-  body.innerHTML = `<div style="display: flex; align-items: center;
-  justify-content: center; width: 100vw; height: 100vh; color: white;
-  font-size: 100px; font-weight: bold;
-  text-shadow: 0px 0px 20px black;">Meow!</div>`;
-  function ani(){
-    t++;
-    body.style.backgroundColor = `hsl(${t%360}deg, 100%, 70%)`;
-    setTimeout(ani, 30);
-  }
-  ani();
+  let MaoHuPi = 123;
   ```
 
 </td>
