@@ -2,7 +2,7 @@
 
 ---
 
-<img height="180px" alt="MaoHuPi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=maohupi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false"><span>&ensp;&ensp;</span><img height="180px" alt="MaoHuPi's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=maohupi&locale=en&hide_title=false&layout=compact&langs_count=10&theme=gruvbox&hide_border=false&card_width=500">
+<img height="200vw" alt="MaoHuPi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=maohupi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false"><span>&ensp;&ensp;</span><img height="200vw" alt="MaoHuPi's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=maohupi&locale=en&hide_title=false&layout=compact&langs_count=10&theme=gruvbox&hide_border=false&card_width=500">
 
 ---
 
