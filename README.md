@@ -8,8 +8,7 @@
 <td>
 
   ```js
-  let body = document.body;
-  let t = 0;
+  let body = document.body, t = 0;
   body.innerHTML = `<div style="display: flex; align-items: center;
   justify-content: center; width: 100vw; height: 100vh; color: white;
   font-size: 100px; font-weight: bold;
